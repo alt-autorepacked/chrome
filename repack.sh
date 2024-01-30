@@ -3,7 +3,7 @@
 epm tool eget https://raw.githubusercontent.com/alt-autorepacked/common/v0.3.0/common.sh
 . ./common.sh
 
-_package="chrome"
+_package="google-chrome-stable"
 _download_url="https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb"
 
 _download() {
